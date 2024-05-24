@@ -7,8 +7,11 @@ Scenarios: Compare entire CSV files to make sure the content matches Specify col
 
 Usage:
 
-Clone the repository git clone https://github.com/SS220692/csv-comparision.git
+Clone the repository 
+git clone https://github.com/SS220692/csv-comparision.git
 
-Navigate to the project directory: cd hellocucumber
+Navigate to the project directory: 
+cd hellocucumber
 
-Run the tests mvn test
+Run the tests 
+  mvn test
